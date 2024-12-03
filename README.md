@@ -167,9 +167,11 @@ generate_caption("Image path")
 
 ---
 
+## Example:
+![Example](https://github.com/user-attachments/assets/3e6b84dc-b409-44da-a947-9dda7af0be2a)
 
 
-## 9. How to Use
+## 8. How to Use
 
 1. Clone this repository or download the notebook.
 2. Place the Flickr8k dataset in the specified `BASE_DIR`.
